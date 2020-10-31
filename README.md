@@ -1,2 +1,2 @@
 # Interactive Fiction :book:
-an interactive fiction game
+In this interactive fiction game, the player will navigate a map (moving east, west, north, south when possible). In each “room” of the map, the game will print a description of the room to the screen. As the player navigates through the map, they will be looking for a light to light up the dark rooms, a key to open a treasure chest, and a chest (that contains the treasure!). Once the player has found the key, they can open the chest. While going through the map, they must watch out for the deadly grue!
